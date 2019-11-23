@@ -1,4 +1,4 @@
-.container {margin: 0 auto; max-width: 1170;}
+.container {margin: 0 auto; max-width: 1170px;}
 section {display: flex;}
 .flex {display: flex;}
 .flex-column {flex-direction: column;}
